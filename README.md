@@ -10,3 +10,5 @@ Team Memebers :-
 3. K.V.Vasanth - 19MIC0022
 4. T.Sai Thej Kumar - 19MIC0029
 5. Ansuman Vadapalli - 19MIC0048
+
+# Dataset Download from this link https://www.kaggle.com/code/niteshyadav3103/fake-news-detection/input
